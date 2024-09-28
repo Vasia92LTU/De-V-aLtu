@@ -7,8 +7,6 @@ I'm a FiveM developer and script creator, working on optimizing game servers and
 - **Frameworks**: QBCore, NoPixel-inspired setups
 - **Tools**: Git, Visual Studio Code, FiveM Tools
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devaltu&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 - Discord: [Join My Discord](https://discord.gg/devaltu)
