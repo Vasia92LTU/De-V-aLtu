@@ -4,10 +4,6 @@ I'm a FiveM developer and script creator, working on optimizing game servers and
 
 ## 🔧 Tools & Technologies
 - **Languages**: Lua, JavaScript, HTML, CSS
-- **Frameworks**: QBCore, NoPixel-inspired setups
+- **Frameworks**: QBCore.
 - **Tools**: Git, Visual Studio Code, FiveM Tools
 
-
-## 🔗 Connect with Me
-- Discord: [Join My Discord](https://discord.gg/devaltu)
-- YouTube: [My YouTube Channel](https://youtube.com/@devaltu)
